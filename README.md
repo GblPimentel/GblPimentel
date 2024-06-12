@@ -8,3 +8,5 @@
 [![My Skills](https://skillicons.dev/icons?i=phpstorm,docker,nginx,git,postman)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GblPimentel&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GblPimentel&size_weight=0.5&count_weight=0.5)

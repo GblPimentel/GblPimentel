@@ -6,3 +6,5 @@
 
 ### 🧰 Tools used daily 
 [![My Skills](https://skillicons.dev/icons?i=phpstorm,docker,nginx,git,postman)](https://skillicons.dev)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GblPimentel&show_icons=true&theme=radical)
